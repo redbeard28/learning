@@ -3,6 +3,10 @@
 #   Jérémie CUADRADO
 #   v1
 ###########################################
+#
+# Source => https://sysadmincasts.com/episodes/42-crash-course-on-vagrant-revised
+#
+#
 
 Vagrant.configure("2") do |config|
 
