@@ -1,3 +1,9 @@
+###########################################
+#   Vagrant file
+#   Jérémie CUADRADO
+#   v1
+###########################################
+
 Vagrant.configure("2") do |config|
 
   # create mgmt node
